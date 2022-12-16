@@ -1,6 +1,6 @@
 package com.putri.gitjava;
 
 public class TestLogin {
-	// Test A
+	// Test Login
 	// Author: Leader - Kel 01
 }
